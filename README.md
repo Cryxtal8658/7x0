@@ -1,2 +1,2 @@
-# 7x0
+# 7x
 details
